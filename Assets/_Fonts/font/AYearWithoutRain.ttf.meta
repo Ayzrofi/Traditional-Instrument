@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 64049d6e38f5bd84f8a98c47d2a77a82
+timeCreated: 1541597853
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: A Year Without Rain
+  fontNames:
+  - A Year Without Rain
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

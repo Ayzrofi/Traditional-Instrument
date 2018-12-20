@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Main_Menu.unity
+    guid: d8e8c5a7c519387418b762545441e572
+  - enabled: 1
+    path: Assets/Scene/Panting.unity
+    guid: d9b59e961e8ea854c8d799d8106ae649
+  - enabled: 1
+    path: Assets/Scene/Keterangan.unity
+    guid: 29b429e3a8899894186300b06a0e59fc
+  - enabled: 1
+    path: Assets/Scene/Panting_Music.unity
+    guid: 94852103c7b690941adadc389b6b155d
+  - enabled: 1
+    path: Assets/Scene/VideoPlayer.unity
+    guid: 912defbef1bd95845804d9bbca7410bf
+  - enabled: 1
+    path: Assets/Scene/About.unity
+    guid: 9638e9e736fee074a92a5a027f0c8c60

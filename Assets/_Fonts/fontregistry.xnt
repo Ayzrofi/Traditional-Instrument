@@ -1,0 +1,102 @@
+<fontregistry>
+	<family>
+		<name>Day Roman</name>
+		<face>
+			<style>Regular</style>
+			<file>Resources/Fonts/NotoSans-Regular.ttf</file>
+			<file ranges="0x21-0x7e 0xa0-0xff">Resources/Fonts/Roboto-Regular.ttf</file>
+			<file ranges="0x3000-0xffff">Resources/Fonts/NotoSansCJKsc-Regular.otf</file>
+			
+			<embolden>0.0</embolden>
+		</face>
+		<face>
+			<style>Bold</style>
+			<file>Resources/Fonts/NotoSans-Bold.ttf</file>
+			<file ranges="0x21-0x7e 0xa0-0xff">Resources/Fonts/Roboto-Regular.ttf</file>
+			<file ranges="0x3000-0xffff">Resources/Fonts/NotoSansCJKsc-Regular.otf</file>
+			
+			<embolden>0.0</embolden>
+		</face>
+		<face>
+			<style>Italic</style>
+			<file>Resources/Fonts/NotoSans-Italic.ttf</file>
+			<file ranges="0x21-0x7e 0xa0-0xff">Resources/Fonts/Roboto-Italic.ttf</file>
+			<file ranges="0x3000-0xffff">Resources/Fonts/NotoSansCJKsc-Regular.otf</file>
+			
+			<transform><xy>0.0</xy></transform>
+		</face>
+		<face>
+			<style>BoldItalic</style>
+			<file>Resources/Fonts/NotoSans-BoldItalic.ttf</file>
+			<file ranges="0x21-0x7e 0xa0-0xff">Resources/Fonts/Roboto-LightItalic.ttf</file>
+			<file ranges="0x3000-0xffff">Resources/Fonts/NotoSansCJKsc-Regular.otf</file>
+			
+			<embolden>0.0</embolden>
+			<transform><xy>0.0</xy></transform>
+		</face>
+	</family>
+	<family>
+		<name>GOLEM</name>
+		<face>
+			<style>Regular</style>
+			<file>Resources/Fonts/Golem-Regular.ttf</file>
+			
+			<embolden>0.0</embolden>
+		</face>
+		<face>
+			<style>Bold</style>
+			<file>Resources/Fonts/Golem-Regular.ttf</file>
+			
+			<embolden>0.0</embolden>
+		</face>
+		<face>
+			<style>Italic</style>
+			<file>Resources/Fonts/Golem-Regular.ttf</file>
+			
+			<transform><xy>0.0</xy></transform>
+		</face>
+		<face>
+			<style>BoldItalic</style>
+			<file>Resources/Fonts/Golem-Regular.ttf</file>
+			
+			<embolden>0.0</embolden>
+			<transform><xy>0.0</xy></transform>
+		</face>
+	</family>
+	<family>
+		<name>Julius</name>
+		<face>
+			<style>Regular</style>
+			<file>Resources/Fonts/NotoSans-Regular.ttf</file>
+			<file ranges="0x21-0x7e 0xa0-0xff">Resources/Fonts/JuliusSansOne-Regular.ttf</file>
+			<file ranges="0x3000-0xffff">Resources/Fonts/NotoSansCJKsc-Regular.otf</file>
+			
+			<embolden>0.0</embolden>
+		</face>
+		<face>
+			<style>Bold</style>
+			<file>Resources/Fonts/NotoSans-Bold.ttf</file>
+			<file ranges="0x21-0x7e 0xa0-0xff">Resources/Fonts/JuliusSansOne-Regular.ttf</file>
+			<file ranges="0x3000-0xffff">Resources/Fonts/NotoSansCJKsc-Regular.otf</file>
+			
+			<embolden>0.0</embolden>
+		</face>
+		<face>
+			<style>Italic</style>
+			<file>Resources/Fonts/NotoSans-Italic.ttf</file>
+			<file ranges="0x21-0x7e 0xa0-0xff">Resources/Fonts/JuliusSansOne-Regular.ttf</file>
+			<file ranges="0x3000-0xffff">Resources/Fonts/NotoSansCJKsc-Regular.otf</file>
+			
+			<transform><xy>0.0</xy></transform>
+		</face>
+		<face>
+			<style>BoldItalic</style>
+			<file>Resources/Fonts/NotoSans-BoldItalic.ttf</file>
+			<file ranges="0x21-0x7e 0xa0-0xff">Resources/Fonts/JuliusSansOne-Regular.ttf</file>
+			<file ranges="0x3000-0xffff">Resources/Fonts/NotoSansCJKsc-Regular.otf</file>
+			
+			<embolden>0.0</embolden>
+			<transform><xy>0.0</xy></transform>
+		</face>
+	</family>
+</fontregistry>

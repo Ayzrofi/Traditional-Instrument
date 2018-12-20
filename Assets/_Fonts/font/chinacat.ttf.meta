@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0a899c5c1f5d2d34097253a5440d69ca
+timeCreated: 1541597848
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chinacat
+  fontNames:
+  - Chinacat
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
